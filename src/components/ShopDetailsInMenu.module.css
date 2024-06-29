@@ -1,0 +1,14 @@
+.frameInner {
+  position: absolute;
+  top: 389px;
+  left: 11px;
+  width: 647px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--wwwjustdialcom-poppins-regular-133-size);
+  color: var(--color-black);
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+}

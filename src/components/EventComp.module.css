@@ -1,0 +1,9 @@
+.eventPlannersParent {
+  width: 982px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px 70px;
+}

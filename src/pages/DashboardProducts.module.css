@@ -1,0 +1,655 @@
+.component15Child {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  width: 172px;
+  height: 24px;
+}
+.listYourProducts {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  line-height: 131.9%;
+  font-weight: 500;
+  font-family: var(--font-lato);
+  color: var(--wwwjustdialcom-nero);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 133px;
+  height: 45px;
+}
+.component15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--primary-color);
+  position: absolute;
+  height: 10.7%;
+  width: 12.35%;
+  top: 4.59%;
+  right: 0;
+  bottom: 84.71%;
+  left: 87.65%;
+  border-radius: var(--br-xs);
+}
+.frame3 {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  width: 644px;
+  height: 407.3px;
+  overflow: hidden;
+}
+.frame2 {
+  width: 1101px;
+  position: relative;
+  height: 420.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame8,
+.frameChild {
+  position: absolute;
+  height: 306.1px;
+}
+.frameChild {
+  top: 0;
+  left: 36.8px;
+  border-radius: 25.09px;
+  background-color: var(--color-gray-900);
+  border: 0.8px solid var(--wwwjustdialcom-nero);
+  box-sizing: border-box;
+  width: 239.2px;
+}
+.frame8 {
+  top: 95.4px;
+  left: 0;
+  width: 276px;
+  overflow: hidden;
+}
+.kisspngChowMeinChineseNoodIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 312px;
+  height: 234.2px;
+  object-fit: cover;
+}
+.chineseYakisbo {
+  position: absolute;
+  top: 216.6px;
+  left: 1003.4px;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.frameItem {
+  position: absolute;
+  top: 337.1px;
+  left: 207.4px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 45.2px;
+  height: 45.2px;
+}
+.frame11,
+.frame7,
+.frameInner,
+.kisspngChowMeinChineseNoodParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 276px;
+  height: 382px;
+}
+.frame11,
+.frame7,
+.frameInner {
+  width: 312px;
+  height: 402px;
+  overflow: hidden;
+}
+.frame11,
+.frameInner {
+  left: 37px;
+  width: 192px;
+  height: 24px;
+}
+.frame11 {
+  left: 0;
+  width: 229px;
+}
+.chineseYakisbo1 {
+  position: absolute;
+  top: 0;
+  left: 68px;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.frame10,
+.frame12 {
+  width: 231px;
+  overflow: hidden;
+}
+.frame12 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  height: 29px;
+}
+.frame10 {
+  position: relative;
+  height: 30px;
+  flex-shrink: 0;
+}
+.frame14,
+.frameDiv {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 184px;
+  height: 41px;
+  overflow: hidden;
+}
+.frame14 {
+  left: 0;
+  width: 221px;
+}
+.ametMinimMollit {
+  position: absolute;
+  top: 0;
+  left: 77.8px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 145.5px;
+}
+.frame13,
+.frame15 {
+  width: 223.3px;
+  overflow: hidden;
+}
+.frame15 {
+  position: absolute;
+  top: 1.9px;
+  left: 0;
+  height: 42px;
+}
+.frame13 {
+  position: relative;
+  height: 43.9px;
+  flex-shrink: 0;
+  font-size: var(--font-size-3xs);
+}
+.div {
+  position: absolute;
+  top: 4px;
+  left: 20px;
+  letter-spacing: 0.01em;
+}
+.frame17,
+.wrapper {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 136px;
+  height: 18px;
+  overflow: hidden;
+}
+.frame17 {
+  left: 0;
+  width: 173px;
+}
+.maskGroupIcon,
+.maskGroupIcon1,
+.maskGroupIcon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 14.5px;
+  height: 14.5px;
+  object-fit: cover;
+}
+.maskGroupIcon1,
+.maskGroupIcon2 {
+  left: 20.3px;
+}
+.maskGroupIcon2 {
+  left: 40.7px;
+}
+.maskGroupIcon3 {
+  left: 61px;
+  width: 14.5px;
+  object-fit: cover;
+}
+.maskGroupIcon3,
+.maskGroupIcon4,
+.maskGroupParent {
+  position: absolute;
+  top: 0;
+  height: 14.5px;
+}
+.maskGroupIcon4 {
+  left: 81.3px;
+  width: 14.5px;
+  object-fit: cover;
+}
+.maskGroupParent {
+  left: 77.8px;
+  width: 95.8px;
+}
+.frame16,
+.frame18 {
+  width: 173.6px;
+  overflow: hidden;
+}
+.frame18 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  height: 14.5px;
+}
+.frame16 {
+  position: relative;
+  height: 18px;
+  flex-shrink: 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-goldenrod);
+}
+.frameIcon {
+  position: absolute;
+  top: 9.6px;
+  left: 0;
+  width: 252px;
+  height: 47px;
+  overflow: hidden;
+}
+.div1 {
+  width: 61.9px;
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+  height: 27.6px;
+  flex-shrink: 0;
+}
+.frame21 {
+  width: 137.2px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frameChild1 {
+  width: 98px;
+  position: undefined;
+  height: 27px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-left: 37px;
+  margin-top: -26px;
+}
+.frame20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 137.2px;
+  height: 27.6px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame19 {
+  width: 252px;
+  position: relative;
+  height: 56.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame9 {
+  position: absolute;
+  top: 212px;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.frameGroup {
+  top: 0;
+  left: 0;
+  filter: drop-shadow(-11px 13px 90px rgba(0, 0, 0, 0.25) inset);
+  width: 312px;
+  height: 401.5px;
+}
+.div3,
+.frame6,
+.frameGroup {
+  position: absolute;
+}
+.frame6 {
+  top: 0.5px;
+  left: 602px;
+  width: 312px;
+  height: 408.5px;
+  overflow: hidden;
+}
+.div3 {
+  top: 0;
+  left: 75.3px;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+  width: 61.9px;
+  height: 27.6px;
+}
+.frame22,
+.frame36,
+.frame38,
+.frameChild4 {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 98px;
+  height: 27px;
+  overflow: hidden;
+}
+.frame22,
+.frame36,
+.frame38 {
+  top: 0.6px;
+  left: 0;
+  width: 135px;
+}
+.frame22,
+.frame36 {
+  top: 0;
+  width: 137.2px;
+  height: 27.6px;
+}
+.frame22 {
+  top: 0.5px;
+  left: -22px;
+  width: 312px;
+  height: 408.5px;
+}
+.frame5 {
+  width: 940px;
+  position: relative;
+  height: 409.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame4 {
+  width: 978px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame1,
+.frameParent {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent {
+  display: flex;
+  flex-direction: column;
+}
+.frame1 {
+  width: 1101px;
+  height: 879.5px;
+  flex-shrink: 0;
+}
+.frame,
+.frame1,
+.frameWrapper {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame {
+  width: 1101px;
+  height: 898.5px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frameWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1456px;
+  height: 956px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 81px;
+  box-sizing: border-box;
+}
+.shopDetails {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  font-weight: 500;
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+  color: var(--color-dimgray-200);
+  text-align: left;
+}
+.vectorIcon {
+  position: absolute;
+  height: 95.24%;
+  width: 17.8%;
+  top: 0;
+  right: 82.2%;
+  bottom: 4.76%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.shopDetailsParent {
+  width: 118px;
+  position: relative;
+  height: 21px;
+}
+.frame40 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 286px;
+  left: 0;
+  width: 151px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.vectorIcon1 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+}
+.dashboard {
+  position: relative;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  line-height: 131.9%;
+  font-weight: 500;
+  font-family: var(--font-manrope);
+  color: var(--color-gray-400);
+  text-align: left;
+}
+.frame41,
+.vectorParent {
+  cursor: pointer;
+  display: flex;
+}
+.vectorParent {
+  width: 99px;
+  height: 18px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.frame41 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 103px;
+  left: 0;
+  width: 128px;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.component14Child {
+  align-self: stretch;
+  width: 172px;
+  height: 24px;
+  display: none;
+}
+.groupIcon {
+  width: 16.3px;
+  position: relative;
+  height: 16px;
+}
+.products {
+  width: 63.3px;
+  position: relative;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  line-height: 131.9%;
+  font-weight: 600;
+  font-family: var(--font-manrope);
+  color: #f9f9fc;
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.component14,
+.groupParent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.groupParent {
+  width: 90.9px;
+  height: 18px;
+  align-items: center;
+  gap: 14px;
+}
+.component14 {
+  width: 189px;
+  border-radius: var(--br-xs);
+  background-color: var(--primary-color);
+  height: 45px;
+  align-items: flex-start;
+  padding: var(--padding-base) 23px 14px;
+  box-sizing: border-box;
+}
+.frame42 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 153px;
+  left: 0;
+  width: 201px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.databaseIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.analytics {
+  position: relative;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  font-weight: 500;
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+  color: var(--color-dimgray-200);
+  text-align: left;
+}
+.databaseParent {
+  width: 105px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame43 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 230px;
+  left: 0;
+  width: 134px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.instanceParent {
+  width: 209px;
+  position: relative;
+  height: 956px;
+}
+.frame39,
+.frameButton {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frameButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 1440px;
+  height: 959px;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.frame39 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1456px;
+  justify-content: center;
+}
+.dashboardProducts {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  height: 956px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl-7);
+  color: var(--color-black);
+  font-family: var(--font-satoshi-variable);
+}

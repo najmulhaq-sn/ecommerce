@@ -1,0 +1,36 @@
+.frame,
+.frame1,
+.frameParent {
+  display: flex;
+  align-items: center;
+}
+.frame1 {
+  align-self: stretch;
+  height: 360px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xl);
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+}
+.frame,
+.frameParent {
+  flex-direction: column;
+}
+.frameParent {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xl);
+  gap: var(--gap-23xl);
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 1813px;
+  overflow: hidden;
+  justify-content: center;
+}

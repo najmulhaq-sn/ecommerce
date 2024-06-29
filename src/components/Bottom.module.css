@@ -1,0 +1,86 @@
+.copyrights200824All {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.2px;
+}
+.privacy {
+  z-index: 0;
+}
+.div,
+.privacy {
+  position: relative;
+  letter-spacing: -0.2px;
+}
+.container2 {
+  width: 5.31%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 8.08%;
+  left: 86.61%;
+  flex-direction: column;
+  z-index: 1;
+}
+.container2,
+.container3,
+.link {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link {
+  flex: 1;
+  flex-direction: row;
+  padding: 0 var(--padding-mini) var(--padding-12xs) var(--padding-8xs);
+  position: relative;
+}
+.container3 {
+  width: 6.45%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 9.39%;
+  left: 84.16%;
+  flex-direction: column;
+  z-index: 1;
+}
+.link1 {
+  flex: 1;
+  padding: 0 var(--padding-mini) var(--padding-12xs) 0;
+  position: relative;
+}
+.container,
+.container1,
+.link1,
+.link2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link2 {
+  flex: 1;
+  padding: 0 var(--padding-mini) var(--padding-12xs) 0;
+}
+.container,
+.container1 {
+  align-self: stretch;
+}
+.container1 {
+  width: 490px;
+}
+.container {
+  background-color: var(--color-gainsboro-200);
+  padding: var(--padding-21xl) var(--padding-26xl);
+  text-align: left;
+  font-size: var(--wwwjustdialcom-poppins-regular-12-size);
+  color: var(--wwwjustdialcom-emperor);
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+}
+@media screen and (max-width: 960px) {
+  .container {
+    flex-direction: column;
+    padding: var(--padding-61xl) var(--padding-71xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,188 @@
+.shopDetails {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  line-height: 131.9%;
+  font-family: var(--font-lato);
+  color: var(--color-gray-600);
+}
+.label {
+  cursor: pointer;
+}
+.input {
+  display: none;
+}
+.parent {
+  position: absolute;
+  top: 42px;
+  left: 149px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-snow-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 607px;
+  height: 198px;
+}
+.addYourShop {
+  position: absolute;
+  top: 148px;
+  left: 206px;
+  letter-spacing: -0.2px;
+  line-height: 18.2px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 413px;
+  height: 76px;
+}
+.imageUploadIcon260nw115742 {
+  position: absolute;
+  top: 87px;
+  left: 385px;
+  width: 68px;
+  height: 66px;
+  object-fit: cover;
+}
+.shopName {
+  position: absolute;
+  top: 245px;
+  left: 62px;
+  letter-spacing: -0.2px;
+  line-height: 18.2px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 317px;
+  height: 64px;
+}
+.frameChild {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 315px;
+  left: 168px;
+}
+.addYourShop1,
+.address {
+  position: absolute;
+  letter-spacing: -0.2px;
+  line-height: 18.2px;
+  display: flex;
+  align-items: center;
+}
+.addYourShop1 {
+  top: 314px;
+  left: 166px;
+  color: var(--color-lightgray-100);
+  text-align: center;
+  justify-content: center;
+  width: 513px;
+  height: 62px;
+}
+.address {
+  top: 408px;
+  left: 170px;
+  width: 225px;
+  height: 63px;
+}
+.frameItem {
+  top: 467px;
+  left: 172px;
+}
+.enterYourShop,
+.frameInner,
+.frameItem {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.enterYourShop {
+  outline: 0;
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+  font-size: var(--font-size-11xl);
+  top: 465px;
+  left: 179px;
+  letter-spacing: -0.2px;
+  line-height: 18.2px;
+  color: var(--color-darkgray-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 582px;
+  height: 87px;
+}
+.frameInner {
+  top: 600px;
+  left: 492px;
+}
+.contactNumber {
+  position: absolute;
+  top: 598px;
+  left: 168px;
+  letter-spacing: -0.2px;
+  line-height: 18.2px;
+  color: var(--color-gray-800);
+  display: flex;
+  align-items: center;
+  width: 273px;
+  height: 50px;
+}
+.input1,
+.rectangleTextfield {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  left: 492px;
+}
+.input1 {
+  outline: 0;
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+  font-size: var(--font-size-11xl);
+  top: 598px;
+  letter-spacing: -0.2px;
+  line-height: 18.2px;
+  color: var(--color-silver-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 269px;
+  height: 48px;
+}
+.rectangleTextfield {
+  top: 662px;
+}
+.div,
+.whatsappNumber {
+  position: absolute;
+  top: 660px;
+  letter-spacing: -0.2px;
+  line-height: 18.2px;
+  display: flex;
+  align-items: center;
+  height: 48px;
+}
+.div {
+  left: 492px;
+  color: var(--color-silver-100);
+  width: 269px;
+}
+.whatsappNumber {
+  left: 171px;
+  width: 289px;
+}
+.frame {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 761px;
+  height: 708px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+}

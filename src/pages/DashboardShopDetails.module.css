@@ -1,0 +1,21 @@
+.frame,
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: 267px;
+  width: 761px;
+  height: 758px;
+  overflow: hidden;
+}
+.frame1 {
+  left: 1081px;
+  width: 317px;
+  height: 433px;
+}
+.dashboardShopDetails {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  height: 956px;
+  overflow: hidden;
+}

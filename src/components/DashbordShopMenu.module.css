@@ -1,0 +1,420 @@
+.instanceChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--wwwjustdialcom-nero);
+}
+.dukaan {
+  position: absolute;
+  top: 2.09%;
+  left: 22.97%;
+  font-size: var(--wwwjustdialcom-poppins-regular-14-size);
+  line-height: 131.9%;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: var(--font-lato);
+  color: var(--primary-color);
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 6px 9px rgba(0, 0, 0, 0.09);
+  border-radius: var(--br-10xs);
+  background-color: var(--wwwjustdialcom-nero);
+}
+.groupIcon {
+  position: absolute;
+  height: 78.08%;
+  width: 79.23%;
+  top: 11.54%;
+  right: 9.23%;
+  bottom: 10.38%;
+  left: 11.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleGroup {
+  position: absolute;
+  height: 2.72%;
+  width: 12.44%;
+  top: 1.78%;
+  right: 79.9%;
+  bottom: 95.5%;
+  left: 7.66%;
+}
+.dashboardIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.dashboard {
+  flex: 1;
+  position: relative;
+  line-height: 22.31px;
+}
+.dashboardParent {
+  position: absolute;
+  top: 16px;
+  left: 23px;
+  width: 172px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.component14 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--primary-color);
+}
+.component14Wrapper {
+  position: absolute;
+  height: 4.71%;
+  width: 88.52%;
+  top: 7.95%;
+  right: 5.74%;
+  bottom: 87.34%;
+  left: 5.74%;
+  display: none;
+  font-size: var(--wwwjustdialcom-poppins-regular-14-size);
+  color: var(--white-color);
+}
+.messages {
+  position: absolute;
+  top: 0;
+  left: 28.42%;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.groupItem {
+  position: absolute;
+  height: 83.33%;
+  width: 16.84%;
+  top: 16.67%;
+  right: 83.16%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.messagesParent {
+  position: absolute;
+  height: 1.88%;
+  width: 45.45%;
+  top: 42.68%;
+  right: 43.06%;
+  bottom: 55.44%;
+  left: 11.48%;
+  display: none;
+}
+.customer {
+  position: absolute;
+  top: 0;
+  left: 28.72%;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.groupInner {
+  position: absolute;
+  height: 83.33%;
+  width: 17.77%;
+  top: 5.56%;
+  right: 82.23%;
+  bottom: 11.11%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.customerParent {
+  position: absolute;
+  height: 1.88%;
+  width: 44.98%;
+  top: 37.13%;
+  right: 43.54%;
+  bottom: 60.98%;
+  left: 11.48%;
+  display: none;
+}
+.settings {
+  position: absolute;
+  top: 0;
+  left: 29.63%;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.layer2Icon {
+  position: absolute;
+  height: 88.89%;
+  width: 19.75%;
+  top: 5.56%;
+  right: 80.25%;
+  bottom: 5.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.settingsParent {
+  position: absolute;
+  height: 1.88%;
+  width: 38.76%;
+  top: 88.49%;
+  right: 49.76%;
+  bottom: 9.62%;
+  left: 11.48%;
+}
+.products {
+  position: absolute;
+  top: 0;
+  left: 30.34%;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.groupChild1 {
+  position: absolute;
+  height: 88.89%;
+  width: 17.98%;
+  top: 5.56%;
+  right: 82.02%;
+  bottom: 5.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.productsParent {
+  position: absolute;
+  height: 1.88%;
+  width: 42.58%;
+  top: 31.59%;
+  right: 45.93%;
+  bottom: 66.53%;
+  left: 11.48%;
+  display: none;
+}
+.transactions {
+  position: absolute;
+  top: 0;
+  left: 23.48%;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.groupChild2 {
+  position: absolute;
+  height: 90.56%;
+  width: 15.65%;
+  top: 0;
+  right: 84.35%;
+  bottom: 9.44%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.transactionsParent {
+  position: absolute;
+  height: 1.88%;
+  width: 55.02%;
+  top: 26.05%;
+  right: 33.49%;
+  bottom: 72.07%;
+  left: 11.48%;
+  display: none;
+}
+.dashboard1 {
+  position: absolute;
+  top: 0;
+  left: 27.27%;
+  line-height: 131.9%;
+  font-weight: 500;
+}
+.vectorIcon {
+  position: absolute;
+  height: 88.89%;
+  width: 16.16%;
+  top: 5.56%;
+  right: 83.84%;
+  bottom: 5.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboardGroup {
+  position: absolute;
+  height: 1.88%;
+  width: 47.37%;
+  top: 9.41%;
+  right: 41.15%;
+  bottom: 88.7%;
+  left: 11.48%;
+  color: var(--wwwjustdialcom-nero);
+}
+.statistics {
+  position: absolute;
+  top: 0;
+  left: 29.03%;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.groupChild3,
+.groupChild4,
+.rectangleDiv {
+  position: absolute;
+  height: 100%;
+  width: 16.88%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 83.13%;
+  border-radius: var(--br-12xs);
+  background-color: var(--color-slategray);
+}
+.groupChild3,
+.groupChild4 {
+  height: 64.38%;
+  top: 35.63%;
+  right: 41.25%;
+  left: 41.87%;
+}
+.groupChild4 {
+  height: 50%;
+  top: 50%;
+  right: 83.13%;
+  left: 0;
+}
+.rectangleContainer {
+  position: absolute;
+  height: 88.89%;
+  width: 17.2%;
+  top: 5.56%;
+  right: 82.8%;
+  bottom: 5.56%;
+  left: 0;
+}
+.statisticsParent {
+  position: absolute;
+  height: 1.88%;
+  width: 44.5%;
+  top: 14.96%;
+  right: 44.02%;
+  bottom: 83.16%;
+  left: 11.48%;
+  display: none;
+}
+.payment,
+.vectorIcon1 {
+  position: absolute;
+  top: 0;
+}
+.payment {
+  left: 28.05%;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.vectorIcon1 {
+  height: 100%;
+  width: 10.98%;
+  right: 89.02%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.paymentParent {
+  position: absolute;
+  height: 1.88%;
+  width: 39.23%;
+  top: 20.5%;
+  right: 47.37%;
+  bottom: 77.62%;
+  left: 13.4%;
+  display: none;
+}
+.logout {
+  position: absolute;
+  top: 0;
+  left: 33.33%;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 88.89%;
+  width: 22.22%;
+  top: 5.56%;
+  right: 77.78%;
+  bottom: 5.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instanceItem,
+.logoutParent {
+  position: absolute;
+  height: 1.88%;
+  width: 34.45%;
+  top: 92.99%;
+  right: 54.07%;
+  bottom: 5.13%;
+  left: 11.48%;
+}
+.instanceItem {
+  height: 2.09%;
+  width: 9.57%;
+  top: 2.2%;
+  right: 7.66%;
+  bottom: 95.71%;
+  left: 82.78%;
+  box-shadow: 0 0 4px 2px rgba(71, 91, 232, 0.04);
+  border-radius: 50%;
+  background-color: var(--wwwjustdialcom-nero);
+  border: 1px solid var(--color-whitesmoke-300);
+  box-sizing: border-box;
+}
+.shapeIcon {
+  position: absolute;
+  height: 0.42%;
+  width: 3.83%;
+  top: 3.14%;
+  right: 10.53%;
+  bottom: 96.44%;
+  left: 85.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 209px;
+  height: 956px;
+  text-align: left;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  color: var(--color-slategray);
+  font-family: var(--font-manrope);
+}

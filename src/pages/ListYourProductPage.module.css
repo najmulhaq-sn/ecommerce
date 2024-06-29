@@ -1,0 +1,174 @@
+.label {
+  cursor: pointer;
+}
+.input {
+  display: none;
+}
+.parent {
+  position: absolute;
+  top: 274px;
+  left: 275px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: #fffefe;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 801px;
+  height: 256px;
+}
+.addPhotos {
+  position: absolute;
+  top: 413px;
+  left: 481px;
+  letter-spacing: 0.1em;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 392px;
+  height: 68px;
+}
+.imageUploadIcon260nw115742 {
+  position: absolute;
+  top: 338px;
+  left: 600px;
+  width: 152px;
+  height: 75px;
+  object-fit: cover;
+}
+.listYourProductPageChild,
+.listYourProductPageItem {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 772px;
+  left: 234px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.listYourProductPageItem {
+  top: 896px;
+  left: 244px;
+}
+.title {
+  margin: 0;
+}
+.titleItemTitleContainer1 {
+  width: 100%;
+}
+.category,
+.titleItemTitleContainer {
+  position: absolute;
+  top: 652px;
+  left: 234px;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  width: 216px;
+  height: 67px;
+}
+.category {
+  top: 841px;
+  left: 224px;
+  height: 48px;
+}
+.listYourProductPageInner {
+  position: absolute;
+  top: 1017px;
+  left: 225px;
+  border-radius: var(--br-xl);
+  width: 281px;
+  height: 45px;
+}
+.itemDescription,
+.price {
+  position: absolute;
+  top: 962px;
+  left: 225px;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  width: 216px;
+  height: 48px;
+}
+.itemDescription {
+  top: 1100px;
+  white-space: pre-wrap;
+  width: 332px;
+  height: 41px;
+}
+.rectangleTextfield {
+  position: absolute;
+  top: 1196px;
+  left: 225px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.writeADetailed {
+  position: absolute;
+  top: 1203px;
+  left: 244px;
+  letter-spacing: 0.1em;
+  color: #c5bfbf;
+  display: flex;
+  align-items: center;
+  width: 665px;
+  height: 26px;
+}
+.rectangleButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #469cea;
+  position: absolute;
+  top: 1495px;
+  left: 442px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  width: 385px;
+  height: 101px;
+}
+.submit {
+  top: 1494px;
+  left: 440px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  text-align: center;
+  justify-content: center;
+  width: 387px;
+  height: 102px;
+  cursor: pointer;
+}
+.listYourProducts,
+.rs9000,
+.submit {
+  position: absolute;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+}
+.listYourProducts {
+  top: 68px;
+  left: 275px;
+  font-weight: 800;
+  text-align: center;
+  justify-content: center;
+  width: 801px;
+  height: 151px;
+}
+.rs9000 {
+  top: 1019px;
+  left: 241px;
+  color: transparent;
+  width: 200px;
+  height: 43px;
+}
+.listYourProductPage {
+  width: 100%;
+  position: relative;
+  background-color: var(--wwwjustdialcom-nero);
+  height: 1658px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-nunito);
+}

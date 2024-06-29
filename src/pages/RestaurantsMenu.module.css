@@ -1,0 +1,14 @@
+.frame {
+  position: absolute;
+  top: 919px;
+  left: 0;
+  width: 1200px;
+  height: 2319px;
+  overflow: hidden;
+}
+.restaurantsMenu {
+  width: 100%;
+  position: relative;
+  background-color: var(--wwwjustdialcom-nero);
+  height: 3238px;
+}

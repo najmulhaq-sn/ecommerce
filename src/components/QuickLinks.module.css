@@ -1,0 +1,345 @@
+.quickLinks {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.2px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.container2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0;
+}
+.aboutUs {
+  position: relative;
+  letter-spacing: -0.2px;
+}
+.item,
+.link {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item {
+  height: 18px;
+  flex-direction: column;
+  padding: 0 var(--padding-65xl-5) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame,
+.itemmargin {
+  justify-content: center;
+}
+.itemmargin {
+  height: 33px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 var(--padding-5xl) var(--padding-mini) 0;
+  box-sizing: border-box;
+  min-width: 160px;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 332.6px;
+  overflow: hidden;
+}
+.frame,
+.frame1,
+.item1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.item1 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-62xl-9) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: 160px;
+  width: 172.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.item2 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-15xl) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame2,
+.item2,
+.item3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame2 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  width: 332.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.item3 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-81xl-1) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame3 {
+  position: absolute;
+  top: 33px;
+  left: 160px;
+  width: 172.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.frame3,
+.frame4,
+.item4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.item4 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-49xl-4) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame4 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  width: 332.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.item5 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-43xl-9) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame5,
+.item5,
+.item6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame5 {
+  position: absolute;
+  top: 66px;
+  left: 160px;
+  width: 172.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.item6 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-27xl-6) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame6 {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  width: 332.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.frame6,
+.frame7,
+.item7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.item7 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-59xl-9) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame7 {
+  position: absolute;
+  top: 99px;
+  left: 160px;
+  width: 172.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.item8 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-53xl-3) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame8,
+.item8,
+.item9,
+.itemmargin9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame8 {
+  position: absolute;
+  top: 132px;
+  left: 0;
+  width: 332.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.item9,
+.itemmargin9 {
+  box-sizing: border-box;
+}
+.item9 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-25xl-6) 0 0;
+  min-width: 136px;
+}
+.itemmargin9 {
+  position: absolute;
+  height: calc(100% - 198px);
+  top: 132px;
+  bottom: 66px;
+  left: 160px;
+  justify-content: center;
+  padding: 0 var(--padding-5xl) var(--padding-mini) 0;
+  min-width: 160px;
+}
+.item10 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-50xl) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame9,
+.item10,
+.item11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame9 {
+  position: absolute;
+  top: 165px;
+  left: 0;
+  width: 332.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.item11 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-42xl-4) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame10 {
+  position: absolute;
+  top: 198px;
+  left: 0;
+  width: 332.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.frame10,
+.frame11,
+.item12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.item12 {
+  height: 18px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-33xl-1) 0 0;
+  box-sizing: border-box;
+  min-width: 136px;
+}
+.frame11 {
+  position: absolute;
+  top: 165px;
+  left: 160px;
+  width: 172.6px;
+  overflow: hidden;
+  justify-content: center;
+}
+.list {
+  align-self: stretch;
+  position: relative;
+  height: 231px;
+  font-size: var(--wwwjustdialcom-poppins-regular-12-size);
+  color: var(--wwwjustdialcom-emperor);
+}
+.container,
+.container1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container1 {
+  width: 103px;
+  height: 280px;
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.container {
+  align-self: stretch;
+  flex-direction: row;
+}
+.border,
+.borderWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.border {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xl) var(--padding-26xl);
+}
+.borderWrapper {
+  position: absolute;
+  top: 2109px;
+  left: -4.5px;
+  background-color: var(--color-whitesmoke-300);
+  width: 1200px;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--wwwjustdialcom-poppins-medium-18-size);
+  color: var(--wwwjustdialcom-mine-shaft);
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+}

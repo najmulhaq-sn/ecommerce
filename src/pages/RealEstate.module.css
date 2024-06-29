@@ -1,0 +1,11 @@
+.realEstate {
+  width: 100%;
+  position: relative;
+  background-color: var(--wwwjustdialcom-nero);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-51xl);
+}

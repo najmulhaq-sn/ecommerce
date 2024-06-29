@@ -1,0 +1,12 @@
+.veterinariansParent {
+  width: 1206px;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xl);
+  box-sizing: border-box;
+  gap: 30px 40px;
+}

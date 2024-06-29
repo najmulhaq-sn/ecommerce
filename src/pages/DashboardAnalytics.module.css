@@ -1,0 +1,661 @@
+.dashboard {
+  position: absolute;
+  top: 0;
+  left: 27.27%;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  line-height: 131.9%;
+  font-weight: 500;
+  font-family: var(--font-manrope);
+  color: var(--color-gray-400);
+  text-align: left;
+}
+.vectorIcon {
+  position: absolute;
+  height: 88.89%;
+  width: 16.16%;
+  top: 5.56%;
+  right: 83.84%;
+  bottom: 5.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboardParent,
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 99px;
+  height: 18px;
+}
+.frame1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 91px;
+  left: 0;
+  width: 131px;
+  overflow: hidden;
+}
+.frame,
+.frameParent {
+  width: 209px;
+  height: 956px;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.frameParent {
+  position: relative;
+}
+.analytics,
+.frame3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame3 {
+  width: 1071px;
+  height: 36px;
+  overflow: hidden;
+}
+.analytics {
+  line-height: 131.9%;
+}
+.analyticsWrapper {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 91px;
+  height: 29px;
+}
+.frame4,
+.frame5 {
+  position: absolute;
+  top: 3px;
+  left: 778px;
+}
+.frame4 {
+  top: 36px;
+  left: 22px;
+  width: 1042px;
+  height: 36px;
+  overflow: hidden;
+}
+.mostViewedItems {
+  position: relative;
+  line-height: 131.9%;
+}
+.mostViewedItemsWrapper {
+  border-radius: var(--br-8xs);
+  background-color: var(--wwwjustdialcom-nero);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--wwwjustdialcom-poppins-medium-18-size);
+}
+.jeans {
+  position: relative;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.frame7 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frameChild {
+  width: 207px;
+  position: relative;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-color);
+  height: 8px;
+}
+.frame8,
+.frameDiv,
+.frameParent1,
+.frameWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.frame8 {
+  border-radius: var(--br-4xs);
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frameDiv,
+.frameParent1,
+.frameWrapper {
+  justify-content: flex-start;
+}
+.frameParent1 {
+  align-items: center;
+  gap: var(--gap-7xs);
+}
+.frameDiv,
+.frameWrapper {
+  align-items: flex-start;
+}
+.frameWrapper {
+  padding: var(--padding-3xs);
+}
+.frame10,
+.frameItem {
+  border-radius: var(--br-6xs);
+}
+.frameItem {
+  width: 140px;
+  position: relative;
+  background-color: var(--primary-color);
+  height: 8px;
+}
+.frame10 {
+  align-self: stretch;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.rectangleDiv {
+  width: 180px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-color);
+  height: 8px;
+}
+.frame12,
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.frame12 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frameContainer {
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.b3,
+.caps {
+  position: relative;
+  line-height: 131.9%;
+}
+.caps {
+  font-weight: 600;
+  z-index: 0;
+}
+.b3 {
+  z-index: 1;
+}
+.frameChild1,
+.frameChild2 {
+  width: 303px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lavender);
+  height: 8px;
+  z-index: 2;
+}
+.frameChild2 {
+  width: 253px;
+  position: absolute;
+  margin: 0 !important;
+  top: 26px;
+  left: 0;
+  background-color: var(--primary-color);
+  z-index: 3;
+}
+.capsParent,
+.frameWrapper3 {
+  align-self: stretch;
+  display: flex;
+}
+.capsParent {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+}
+.frameWrapper3 {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame14,
+.frameChild3 {
+  border-radius: var(--br-7xs);
+}
+.frameChild3 {
+  width: 101px;
+  position: relative;
+  background-color: var(--primary-color);
+  height: 8px;
+}
+.frame14 {
+  align-self: stretch;
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frameGroup,
+.frameParent4 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.frameParent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-base);
+}
+.frameGroup {
+  align-items: flex-start;
+  gap: var(--gap-8xl);
+}
+.frameGroup,
+.frameInner,
+.totalViewsWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.frameInner {
+  position: absolute;
+  top: 434px;
+  left: 53px;
+  background-color: var(--wwwjustdialcom-nero);
+  width: 501px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.totalViewsWrapper {
+  width: 82px;
+  align-items: center;
+  justify-content: center;
+}
+.k {
+  position: relative;
+  line-height: 131.9%;
+  font-weight: 500;
+}
+.frameParent8,
+.kParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.kParent {
+  align-items: flex-end;
+  gap: var(--gap-smi);
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+}
+.frameParent8 {
+  position: absolute;
+  top: -18px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--wwwjustdialcom-nero);
+  width: 1046px;
+  height: 363px;
+  overflow: hidden;
+  align-items: flex-start;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-62xl);
+}
+.ellipseDiv {
+  width: 9px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+  height: 9px;
+}
+.ellipseParent,
+.frame15 {
+  width: 47px;
+  display: flex;
+  align-items: center;
+}
+.ellipseParent {
+  height: 16px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame15 {
+  position: absolute;
+  top: -18px;
+  left: 562px;
+  height: 49px;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+}
+.frameParent7 {
+  align-self: stretch;
+  position: relative;
+  height: 305px;
+  z-index: 0;
+  font-size: var(--wwwjustdialcom-poppins-regular-14-size);
+  color: var(--color-gray-600);
+}
+.frameChild4 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 159px;
+}
+.frame16,
+.rectangleParent {
+  width: 32px;
+  display: flex;
+  flex-direction: column;
+}
+.frame16 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangleParent {
+  margin: 0 !important;
+  position: absolute;
+  top: 113px;
+  left: 62px;
+  height: 181px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 1;
+}
+.frameIcon {
+  width: 0;
+  position: relative;
+  height: 13px;
+}
+.thanLastMonthWrapper {
+  width: 103px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frameParent9 {
+  margin: 0 !important;
+  position: absolute;
+  top: 53px;
+  left: 115px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  z-index: 2;
+  color: var(--color-limegreen-100);
+}
+.frameChild5 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 129px;
+}
+.frame17,
+.rectangleGroup {
+  width: 34px;
+  display: flex;
+  flex-direction: column;
+}
+.frame17 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangleGroup {
+  margin: 0 !important;
+  position: absolute;
+  top: 143px;
+  left: 129px;
+  height: 151px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 3;
+}
+.frameChild6 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 135px;
+}
+.frame18,
+.rectangleContainer {
+  width: 36px;
+  display: flex;
+  flex-direction: column;
+}
+.frame18 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangleContainer {
+  margin: 0 !important;
+  position: absolute;
+  top: 137px;
+  left: 196px;
+  height: 157px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 4;
+}
+.frameChild7 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 113px;
+}
+.rectangleParent1 {
+  width: 34px;
+  margin: 0 !important;
+  position: absolute;
+  top: 159px;
+  left: 263px;
+  height: 135px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 5;
+}
+.frame20,
+.rectangleParent2 {
+  width: 38px;
+  display: flex;
+  flex-direction: column;
+}
+.frame20 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangleParent2 {
+  margin: 0 !important;
+  position: absolute;
+  top: 143px;
+  left: 330px;
+  height: 151px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 6;
+}
+.frameChild9 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 71px;
+}
+.frame21 {
+  width: 33px;
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame21,
+.frame22,
+.rectangleParent3 {
+  display: flex;
+  flex-direction: column;
+}
+.rectangleParent3 {
+  width: 33px;
+  margin: 0 !important;
+  position: absolute;
+  top: 201px;
+  left: 397px;
+  height: 93px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 7;
+}
+.frame22 {
+  width: 29px;
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangleParent4,
+.rectangleParent5 {
+  margin: 0 !important;
+  position: absolute;
+  top: 159px;
+  left: 464px;
+  height: 135px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 8;
+}
+.rectangleParent5 {
+  width: 36px;
+  top: 137px;
+  left: 531px;
+  height: 157px;
+  align-items: flex-start;
+  z-index: 9;
+}
+.frameChild12 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 124px;
+}
+.rectangleParent6 {
+  width: 34px;
+  margin: 0 !important;
+  position: absolute;
+  top: 148px;
+  left: 598px;
+  height: 146px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 10;
+}
+.frameInner1,
+.frameParent6,
+.rectangleParent6 {
+  display: flex;
+  flex-direction: column;
+}
+.frameParent6 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.frameInner1 {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  width: 1197px;
+  height: 397px;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+}
+.frame6 {
+  position: absolute;
+  top: 116px;
+  left: -53px;
+  width: 1236px;
+  height: 730px;
+  overflow: hidden;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+}
+.dashboardAnalytics,
+.frame2 {
+  position: relative;
+  overflow: hidden;
+}
+.frame2 {
+  left: 0;
+  width: 889px;
+  height: 951px;
+  margin-top: 0;
+}
+.dashboardAnalytics {
+  width: 100%;
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-lato);
+}

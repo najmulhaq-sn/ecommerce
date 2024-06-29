@@ -1,0 +1,651 @@
+.frame {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dashboard1 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dashboard1,
+.k,
+.totalViews {
+  position: relative;
+  line-height: 131.9%;
+}
+.k {
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-600);
+}
+.frame3,
+.frameIcon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame3 {
+  width: 72px;
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frameIcon {
+  width: 60px;
+  position: relative;
+  height: 72px;
+}
+.dashboardParent,
+.frame2 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame2 {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  background-color: var(--wwwjustdialcom-nero);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-xl) var(--padding-base);
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  color: #525252;
+}
+.dashboardParent {
+  width: 337px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.frame4 {
+  width: 222px;
+}
+.frameGroup,
+.frameWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frameWrapper {
+  width: 700px;
+  height: 153px;
+  justify-content: flex-end;
+}
+.frameGroup {
+  align-self: stretch;
+  justify-content: space-between;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-lato);
+}
+.totalViewsWrapper {
+  width: 82px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.div {
+  position: relative;
+  line-height: 131.9%;
+  font-weight: 500;
+}
+.frameParent3,
+.kParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.kParent {
+  align-items: flex-end;
+  gap: var(--gap-smi);
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+}
+.frameParent3 {
+  position: absolute;
+  top: -18px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--wwwjustdialcom-nero);
+  width: 1040px;
+  height: 323px;
+  overflow: hidden;
+  align-items: flex-start;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-62xl);
+}
+.frameChild {
+  width: 9px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+  height: 9px;
+}
+.ellipseParent,
+.frame5 {
+  width: 47px;
+  display: flex;
+  align-items: center;
+}
+.ellipseParent {
+  height: 16px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame5 {
+  position: absolute;
+  top: -18px;
+  left: 562px;
+  height: 49px;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+}
+.frameParent2 {
+  align-self: stretch;
+  position: relative;
+  height: 305px;
+  z-index: 0;
+  font-size: var(--wwwjustdialcom-poppins-regular-14-size);
+  color: var(--color-gray-600);
+}
+.frameItem {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 159px;
+}
+.jan {
+  position: undefined;
+  line-height: 131.9%;
+  font-weight: 500;
+  height: 16px;
+  margin-left: 14px;
+}
+.rectangleParent {
+  width: 32px;
+  margin: 0 !important;
+  position: absolute;
+  top: 113px;
+  left: 62px;
+  height: 181px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 1;
+}
+.frameChild1 {
+  width: 0;
+  position: relative;
+  height: 13px;
+  object-fit: cover;
+}
+.thanLastMonthWrapper {
+  width: 103px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frameParent4 {
+  margin: 0 !important;
+  position: absolute;
+  top: 53px;
+  left: 115px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  z-index: 2;
+  color: var(--color-limegreen-100);
+}
+.rectangleDiv {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 129px;
+}
+.rectangleGroup {
+  width: 34px;
+  margin: 0 !important;
+  position: absolute;
+  top: 143px;
+  left: 129px;
+  height: 151px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 3;
+}
+.frameChild2 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 135px;
+}
+.rectangleContainer {
+  width: 36px;
+  margin: 0 !important;
+  position: absolute;
+  top: 137px;
+  left: 196px;
+  height: 157px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 4;
+}
+.frameChild3 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 113px;
+}
+.rectangleParent1,
+.rectangleParent2 {
+  width: 34px;
+  margin: 0 !important;
+  position: absolute;
+  top: 159px;
+  left: 263px;
+  height: 135px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 5;
+}
+.rectangleParent2 {
+  width: 38px;
+  top: 143px;
+  left: 330px;
+  height: 151px;
+  z-index: 6;
+}
+.frameChild5 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 71px;
+}
+.rectangleParent3,
+.rectangleParent4,
+.rectangleParent5 {
+  width: 33px;
+  margin: 0 !important;
+  position: absolute;
+  top: 201px;
+  left: 397px;
+  height: 93px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 7;
+}
+.rectangleParent4,
+.rectangleParent5 {
+  width: 29px;
+  top: 159px;
+  left: 464px;
+  height: 135px;
+  align-items: center;
+  z-index: 8;
+}
+.rectangleParent5 {
+  width: 36px;
+  top: 137px;
+  left: 531px;
+  height: 157px;
+  align-items: flex-start;
+  z-index: 9;
+}
+.frameChild8 {
+  width: 21px;
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--primary-color);
+  height: 124px;
+}
+.rectangleParent6 {
+  width: 34px;
+  margin: 0 !important;
+  position: absolute;
+  top: 148px;
+  left: 598px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  z-index: 10;
+}
+.frameParent1 {
+  align-self: stretch;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.frameDiv,
+.frameParent1,
+.frameWrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameWrapper1 {
+  align-self: stretch;
+}
+.frameDiv {
+  width: 709px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.mostViewedItemsWrapper {
+  border-radius: var(--br-8xs);
+  background-color: var(--wwwjustdialcom-nero);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--wwwjustdialcom-poppins-medium-18-size);
+}
+.jeans {
+  position: relative;
+  line-height: 131.9%;
+  font-weight: 600;
+}
+.frame6 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frameChild9 {
+  width: 207px;
+  position: relative;
+  border-radius: var(--br-4xs);
+  background-color: var(--primary-color);
+  height: 8px;
+}
+.frame7,
+.frameParent7 {
+  display: flex;
+  flex-direction: column;
+}
+.frame7 {
+  align-self: stretch;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-lavender);
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frameParent7 {
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame9,
+.frameParent6,
+.frameParent7 {
+  align-self: stretch;
+}
+.frameParent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.b3,
+.caps {
+  position: relative;
+  line-height: 131.9%;
+}
+.caps {
+  font-weight: 600;
+  z-index: 0;
+}
+.b3 {
+  z-index: 1;
+}
+.frameChild10,
+.frameChild11 {
+  width: 303px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lavender);
+  height: 8px;
+  z-index: 2;
+}
+.frameChild11 {
+  width: 253px;
+  position: absolute;
+  margin: 0 !important;
+  top: 26px;
+  left: 0;
+  background-color: var(--primary-color);
+  z-index: 3;
+}
+.capsParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+}
+.frameWrapper7 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameParent10,
+.frameParent5,
+.frameWrapper7 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frameParent10 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frameParent5 {
+  gap: var(--gap-8xl);
+}
+.frameContainer,
+.frameParent5,
+.frameWrapper2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameWrapper2 {
+  width: 323px;
+  flex-direction: column;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+  color: var(--color-gray-600);
+}
+.frameContainer {
+  flex-direction: row;
+  gap: var(--gap-7xs);
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-lato);
+}
+.latestViews {
+  position: relative;
+  line-height: 131.9%;
+  z-index: 0;
+}
+.rectangleTextarea {
+  border: 1px solid #f8f8f8;
+  background-color: transparent;
+  outline: 0;
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-7xs);
+  box-sizing: border-box;
+  height: 321px;
+  z-index: 1;
+}
+.rectangleInput {
+  border: 0;
+  outline: 0;
+  background-color: #f2f4ff;
+  width: 514px;
+  position: absolute;
+  margin: 0 !important;
+  top: 39px;
+  left: 18px;
+  border-radius: var(--br-8xs) var(--br-8xs) 0 0;
+  height: 41px;
+  z-index: 2;
+}
+.appleWatchParent,
+.iphone13ProParent,
+.mackbookProParent,
+.productsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.productsParent {
+  gap: var(--gap-223xl);
+  font-size: var(--wwwjustdialcom-poppins-regular-14-size);
+}
+.appleWatchParent,
+.iphone13ProParent,
+.mackbookProParent {
+  gap: 217px;
+}
+.appleWatchParent,
+.mackbookProParent {
+  gap: 215px;
+}
+.appleWatchParent {
+  gap: 225px;
+}
+.microsoftBookParent {
+  gap: 209px;
+}
+.airpodsParent,
+.applePenParent,
+.frameParent12,
+.microsoftBookParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.applePenParent {
+  gap: var(--gap-223xl);
+}
+.airpodsParent,
+.frameParent12 {
+  gap: 257px;
+}
+.frameParent12 {
+  width: 173px;
+  margin: 0 !important;
+  position: absolute;
+  top: 49px;
+  left: 42px;
+  flex-direction: column;
+  gap: 28px;
+  z-index: 3;
+  font-size: var(--wwwjustdialcom-poppins-medium-14-size);
+}
+.latestViewsParent {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  background-color: var(--wwwjustdialcom-nero);
+  overflow: hidden;
+  padding: var(--padding-8xs) 0;
+  position: relative;
+  gap: var(--gap-xs);
+}
+.frameInner,
+.frameParent,
+.frameWrapper8,
+.latestViewsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameWrapper8 {
+  width: 556px;
+}
+.frameInner,
+.frameParent {
+  align-self: stretch;
+}
+.frameParent {
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--wwwjustdialcom-poppins-regular-14-size);
+  color: var(--color-gray-600);
+  font-family: var(--font-lato);
+}
+.frameInner {
+  padding: var(--padding-3xs);
+}
+.dashboard,
+.frame1 {
+  overflow: hidden;
+  display: flex;
+}
+.frame1 {
+  width: 1121px;
+  height: 925px;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.dashboard {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}

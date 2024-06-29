@@ -1,0 +1,349 @@
+.component37Child,
+.component37Item {
+  position: absolute;
+  border-radius: var(--br-31xl);
+}
+.component37Child {
+  height: 100%;
+  width: 99.87%;
+  top: 0;
+  right: 0.13%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--wwwjustdialcom-nero);
+  border: 2px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+}
+.component37Item {
+  height: 84.23%;
+  width: 28.97%;
+  top: 8.33%;
+  right: 69.34%;
+  bottom: 7.44%;
+  left: 1.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hajiyarHottel {
+  margin: 0;
+  position: absolute;
+  height: 30.06%;
+  width: 38.49%;
+  top: 0;
+  left: 32.39%;
+  font-size: var(--font-size-31xl);
+  letter-spacing: -0.2px;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.maskGroupIcon,
+.maskGroupIcon1,
+.maskGroupIcon2,
+.maskGroupIcon3,
+.maskGroupIcon4 {
+  position: absolute;
+  height: 100%;
+  width: 15.11%;
+  top: 0;
+  right: 84.89%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.maskGroupIcon1,
+.maskGroupIcon2,
+.maskGroupIcon3,
+.maskGroupIcon4 {
+  right: 63.66%;
+  left: 21.24%;
+}
+.maskGroupIcon2,
+.maskGroupIcon3,
+.maskGroupIcon4 {
+  right: 42.47%;
+  left: 42.42%;
+}
+.maskGroupIcon3,
+.maskGroupIcon4 {
+  right: 21.24%;
+  left: 63.66%;
+}
+.maskGroupIcon4 {
+  right: 0;
+  left: 84.89%;
+}
+.groupChild,
+.maskGroupParent {
+  position: absolute;
+  height: 13.1%;
+  width: 17.13%;
+  top: 33.93%;
+  right: 45.07%;
+  bottom: 52.98%;
+  left: 37.8%;
+}
+.groupChild {
+  height: 82.14%;
+  width: 9.36%;
+  top: 8.93%;
+  right: 90.64%;
+  bottom: 8.93%;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-limegreen-200);
+}
+.div,
+.rating {
+  position: absolute;
+  letter-spacing: -0.2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.div {
+  height: 87.5%;
+  width: 8.82%;
+  top: 8.93%;
+  left: 0.19%;
+  justify-content: center;
+}
+.rating {
+  height: 100%;
+  width: 43.51%;
+  top: 0;
+  left: 56.51%;
+  color: var(--color-gray-500);
+  text-align: left;
+}
+.rectangleParent {
+  position: absolute;
+  height: 16.67%;
+  width: 40.87%;
+  top: 31.85%;
+  right: 26.41%;
+  bottom: 51.49%;
+  left: 32.72%;
+  text-align: center;
+  color: var(--color-snow-100);
+}
+.image2Icon {
+  position: absolute;
+  height: 50.7%;
+  width: 10.68%;
+  top: 23.94%;
+  right: 89.32%;
+  bottom: 25.35%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.baticaloSriLanka {
+  margin: 0;
+  position: absolute;
+  height: 100%;
+  width: 85.19%;
+  top: 0;
+  left: 14.81%;
+  font-size: inherit;
+  letter-spacing: -0.2px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.image2Parent {
+  position: absolute;
+  height: 21.13%;
+  width: 21.33%;
+  top: 50.3%;
+  right: 45.95%;
+  bottom: 28.57%;
+  left: 32.72%;
+}
+.peopleRecentlyEnquired {
+  position: absolute;
+  height: 100%;
+  width: 90.79%;
+  top: 0;
+  left: 9.21%;
+  letter-spacing: -0.2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.image5Icon {
+  position: absolute;
+  height: 35.94%;
+  width: 7.66%;
+  top: 26.56%;
+  right: 92.34%;
+  bottom: 37.5%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.peopleRecentlyEnquiredParent {
+  position: absolute;
+  height: 19.05%;
+  width: 21.17%;
+  top: 80.06%;
+  right: 0;
+  bottom: 0.89%;
+  left: 78.83%;
+  font-size: var(--wwwjustdialcom-poppins-regular-14-size);
+  color: var(--color-dimgray-400);
+}
+.image6Icon {
+  position: absolute;
+  height: 9.82%;
+  width: 2.72%;
+  top: 8.04%;
+  right: 2.27%;
+  bottom: 82.14%;
+  left: 95.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  height: 82.33%;
+  width: 22.11%;
+  top: 9.09%;
+  right: 28.41%;
+  bottom: 8.58%;
+  left: 49.48%;
+  border-radius: var(--br-xl);
+  background-color: var(--wwwjustdialcom-science-blue);
+}
+.groupInner {
+  width: 22.63%;
+  right: 0;
+  left: 77.37%;
+  background-color: var(--wwwjustdialcom-nero);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.image4Icon {
+  position: absolute;
+  height: 58.32%;
+  width: 5.97%;
+  top: 21.1%;
+  right: 13.85%;
+  bottom: 20.58%;
+  left: 80.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chat {
+  margin: 0;
+  position: absolute;
+  height: 77.19%;
+  width: 13.97%;
+  top: 10.81%;
+  left: 84.92%;
+  font-size: inherit;
+  letter-spacing: -0.2px;
+  font-weight: 500;
+  font-family: inherit;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangleInput {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-limegreen-300);
+  position: absolute;
+  height: 82.33%;
+  width: 43.68%;
+  top: 9.09%;
+  right: 56.32%;
+  bottom: 8.58%;
+  left: 0;
+  border-radius: var(--br-xl);
+}
+.div1,
+.menu {
+  position: absolute;
+  letter-spacing: -0.2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.div1 {
+  height: 100%;
+  width: 35.3%;
+  top: 0;
+  left: 10.3%;
+  text-align: left;
+}
+.menu {
+  margin: 0;
+  height: 99.49%;
+  width: 13.15%;
+  top: 0.51%;
+  left: 53.87%;
+  font-size: inherit;
+  font-family: inherit;
+  justify-content: center;
+}
+.groupIcon,
+.lineMdphoneCall {
+  position: absolute;
+  height: 41.17%;
+  width: 4.21%;
+  top: 0.51%;
+  right: 86.15%;
+  bottom: 58.32%;
+  left: 9.64%;
+  overflow: hidden;
+}
+.groupIcon {
+  height: 50.94%;
+  width: 5.21%;
+  top: 24.53%;
+  right: 91.54%;
+  bottom: 24.53%;
+  left: 3.25%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangleGroup {
+  position: absolute;
+  height: 17.35%;
+  width: 41.92%;
+  top: 73.42%;
+  right: 25.73%;
+  bottom: 9.23%;
+  left: 32.35%;
+  text-align: center;
+  font-size: var(--wwwjustdialcom-poppins-regular-142-size);
+  color: var(--color-snow-100);
+}
+.component37 {
+  width: 1190px;
+  max-width: 100%;
+  height: 336px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+}

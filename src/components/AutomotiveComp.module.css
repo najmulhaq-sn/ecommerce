@@ -1,0 +1,12 @@
+.carDealershipsParent {
+  align-self: stretch;
+  height: 386px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-81xl);
+  box-sizing: border-box;
+  gap: 40px 70px;
+}

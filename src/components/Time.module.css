@@ -1,0 +1,191 @@
+.frame1 {
+  width: 141px;
+}
+.frameGroup,
+.monday {
+  position: absolute;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.frameGroup {
+  left: 128px;
+  width: 141px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.monday {
+  left: 0;
+  line-height: 17.33px;
+  justify-content: center;
+  width: 73px;
+  height: 24px;
+}
+.mondayWrapper {
+  width: 73px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  height: 24px;
+}
+.wednesday {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 17.33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: 24px;
+}
+.wednesdayWrapper {
+  width: 90px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  height: 24px;
+}
+.friday {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 17.33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 24px;
+}
+.fridayWrapper {
+  width: 50px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  height: 24px;
+}
+.saturday {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 17.33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 78px;
+  height: 22px;
+}
+.saturdayWrapper {
+  width: 78px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  height: 22px;
+}
+.frameContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 226px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frameParent {
+  position: absolute;
+  top: 46px;
+  left: 48px;
+  width: 269px;
+  height: 164px;
+}
+.shopOpeningHours {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 17.33px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 289px;
+  height: 30px;
+}
+.getDirections {
+  margin: 0;
+  width: 120px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.2px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  height: 39px;
+  flex-shrink: 0;
+}
+.getDirectionsWrapper {
+  width: 184px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-snow-400);
+  height: 54px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-7xs) var(--padding-12xs);
+  box-sizing: border-box;
+}
+.rectangleInput {
+  width: 27px;
+  position: relative;
+  border: 1px solid var(--color-cornflowerblue-200);
+  box-sizing: border-box;
+  height: 24px;
+  margin: 0 0 0-163px;
+}
+.frame8 {
+  width: 138px;
+  background-color: var(--color-lightgray-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frameChild {
+  width: 21px;
+  position: relative;
+  height: 14px;
+  object-fit: cover;
+  margin-left: -153px;
+}
+.frameNav {
+  margin: 0;
+  position: absolute;
+  top: 315px;
+  left: 179px;
+  background-color: var(--wwwjustdialcom-nero);
+  width: 138px;
+  height: 54px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: left;
+  font-size: var(--wwwjustdialcom-poppins-regular-142-size);
+  color: var(--color-cornflowerblue-200);
+  font-family: var(--font-pontano-sans);
+}
+.frame {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  width: 317px;
+  height: 369px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--wwwjustdialcom-poppins-regular-133-size);
+  color: var(--color-black);
+  font-family: var(--wwwjustdialcom-poppins-medium-14);
+}

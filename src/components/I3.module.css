@@ -1,0 +1,355 @@
+.products {
+  position: undefined;
+  line-height: 131.9%;
+  width: 34px;
+  margin-top: 5px;
+}
+.kisspngChowMeinChineseNoodIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 312px;
+  height: 234.2px;
+  object-fit: cover;
+}
+.chineseYakisbo {
+  position: absolute;
+  top: 216.6px;
+  left: 1003.4px;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.frameChild {
+  position: absolute;
+  top: 337.1px;
+  left: 207.4px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 45.2px;
+  height: 45.2px;
+}
+.frameItem,
+.kisspngChowMeinChineseNoodParent {
+  width: 276px;
+  position: relative;
+  height: 382px;
+}
+.frameItem {
+  width: 239.2px;
+  border-radius: 25.09px;
+  background-color: var(--color-gray-900);
+  border: 0.8px solid var(--wwwjustdialcom-nero);
+  box-sizing: border-box;
+  height: 306.1px;
+}
+.frame2,
+.frame3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame3 {
+  width: 276px;
+  align-items: flex-end;
+  justify-content: center;
+  margin-top: -286px;
+}
+.frame2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1166.4px;
+  height: 401.5px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-871xl-4) 0 0;
+  box-sizing: border-box;
+}
+.frameInner {
+  width: 192px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame7 {
+  width: 229px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.chineseYakisbo1 {
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.frame8 {
+  width: 231px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  margin-top: -23px;
+}
+.frame6,
+.frameDiv {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame6 {
+  width: 231px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.frameDiv {
+  width: 184px;
+  position: relative;
+  height: 41px;
+}
+.frame10 {
+  width: 221px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.ametMinimMollit {
+  width: 145.5px;
+  position: relative;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.frame11,
+.frame5,
+.frame9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame11 {
+  width: 223.3px;
+  align-items: flex-end;
+  justify-content: center;
+  margin-top: -39px;
+}
+.frame5,
+.frame9 {
+  flex-shrink: 0;
+  align-items: flex-start;
+}
+.frame9 {
+  width: 223.3px;
+  height: 43.9px;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame5 {
+  width: 231px;
+  height: 80.9px;
+  justify-content: center;
+  gap: var(--gap-6xs);
+}
+.div {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.frame14,
+.wrapper {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.wrapper {
+  width: 136px;
+  height: 18px;
+  flex-shrink: 0;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame14 {
+  width: 173px;
+  align-items: flex-end;
+  justify-content: center;
+}
+.maskGroupIcon,
+.maskGroupIcon1,
+.maskGroupIcon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 14.5px;
+  height: 14.5px;
+  object-fit: cover;
+}
+.maskGroupIcon1,
+.maskGroupIcon2 {
+  left: 20.3px;
+}
+.maskGroupIcon2 {
+  left: 40.7px;
+}
+.maskGroupIcon3 {
+  left: 61px;
+  width: 14.5px;
+  object-fit: cover;
+}
+.maskGroupIcon3,
+.maskGroupIcon4,
+.maskGroupParent {
+  position: absolute;
+  top: 0;
+  height: 14.5px;
+}
+.maskGroupIcon4 {
+  left: 81.3px;
+  width: 14.5px;
+  object-fit: cover;
+}
+.maskGroupParent {
+  left: 77.8px;
+  width: 95.8px;
+}
+.frame13,
+.frame15 {
+  width: 173.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame15 {
+  position: relative;
+  height: 14.5px;
+  margin-top: -15px;
+}
+.frame13 {
+  height: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-12xs-6);
+  box-sizing: border-box;
+}
+.frameIcon {
+  position: absolute;
+  top: 9.6px;
+  left: 0;
+  width: 252px;
+  height: 47px;
+  overflow: hidden;
+}
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 75.3px;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+  width: 61.9px;
+  height: 27.6px;
+}
+.frame17,
+.frame19,
+.frameChild1 {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 98px;
+  height: 27px;
+  overflow: hidden;
+}
+.frame17,
+.frame19 {
+  top: 0.6px;
+  left: 0;
+  width: 135px;
+}
+.frame17 {
+  top: 0;
+  width: 137.2px;
+  height: 27.6px;
+}
+.frame16 {
+  width: 252px;
+  position: relative;
+  height: 56.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-2xl-7);
+  color: var(--color-black);
+}
+.frame12,
+.frame4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame12 {
+  width: 252px;
+  height: 83px;
+  flex-shrink: 0;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-3xs);
+  color: var(--color-goldenrod);
+}
+.frame4 {
+  position: absolute;
+  top: 212px;
+  left: 0;
+  gap: var(--gap-7xs);
+}
+.frameParent {
+  width: 312px;
+  position: relative;
+  filter: drop-shadow(-11px 13px 90px rgba(0, 0, 0, 0.25) inset);
+  height: 401.5px;
+  margin-left: -68px;
+  font-size: var(--font-size-2xl-7);
+  color: var(--color-black);
+  font-family: var(--font-satoshi-variable);
+}
+.frame1 {
+  width: 332px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 406.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame,
+.frameWrapper {
+  display: flex;
+  align-items: center;
+}
+.frameWrapper {
+  width: 332px;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 406.5px;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-lato);
+}

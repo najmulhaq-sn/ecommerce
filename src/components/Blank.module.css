@@ -1,0 +1,24 @@
+.reviews {
+  position: relative;
+  width: 573px;
+  height: 235px;
+}
+.frame,
+.frame1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame1 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame {
+  position: absolute;
+  top: 1586px;
+  left: 8px;
+  width: 1191px;
+  align-items: center;
+  justify-content: flex-start;
+}

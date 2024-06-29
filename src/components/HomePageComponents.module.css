@@ -1,0 +1,64 @@
+.foodAndDiningChild {
+  width: 106.2px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  height: 104.7px;
+  z-index: 0;
+}
+.foodAndDining1 {
+  width: 160px;
+  position: relative;
+  font-size: var(--wwwjustdialcom-poppins-regular-142-size);
+  letter-spacing: -0.2px;
+  font-family: var(--font-pontano-sans);
+  color: var(--color-black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 44.4px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.image1Icon {
+  width: 46.56%;
+  position: absolute;
+  margin: 0 !important;
+  height: 39.81%;
+  top: 15.31%;
+  right: 28%;
+  bottom: 44.89%;
+  left: 25.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 2;
+}
+.foodAndDining {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs) var(--padding-3xs);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-11xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.foodAndDiningParent {
+  width: 1198px;
+  height: 802px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-11xl);
+}
